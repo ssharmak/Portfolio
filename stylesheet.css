@@ -462,7 +462,7 @@ section {
   content: 60%;
 }
 
-.progress-line.javascript span::after {
+.progress-line.Javascript span::after {
   content: 85%;
 }
 
